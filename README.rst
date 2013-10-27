@@ -16,8 +16,13 @@ stardict, GoldenDict 的一个共同问题是, 查询结果的 **字体都是一
 youdao-dict-for-ubuntu 演示
 ===========================
 
-http://v.youku.com/v_show/id_XNTI2ODQ1MjY4.html
-http://v.youku.com/v_show/id_XNTI2ODYyMzUy.html
+- http://v.youku.com/v_show/id_XNTI2ODQ1MjY4.html
+- http://v.youku.com/v_show/id_XNTI2ODYyMzUy.html
+
+截图:
+
+.. image:: https://raw.github.com/idning/youdao-dict-for-ubuntu/master/imgs/youdao-dict.png
+    :height: 355px
 
 特点
 ====
@@ -29,10 +34,6 @@ http://v.youku.com/v_show/id_XNTI2ODYyMzUy.html
 
 5. 基于web版youdao , 而不是API(http://fanyi.youdao.com/openapi.do?keyfrom=tinxing&key=1312427901&type=data&doctype=json&version=1.1&q=hello)
    因为API 通常有鉴权而比较慢.
-
-.. image:: https://raw.github.com/idning/youdao-dict-for-ubuntu/master/imgs/youdao-dict.png
-    :height: 355px
-
 
 install
 =======
@@ -65,7 +66,7 @@ install
 ========
 
 - 一个QT版的: https://github.com/lvzongting/youdao-qt
-- openyoudao: 比较复杂, python 实现(不错, 不过讨厌网页广告.): 
+- openyoudao: 比较复杂, python 实现(不错, 不过讨厌留在网页上的广告.): 
 
     - https://github.com/justzx2011/openyoudao
     - http://v.youku.com/v_show/id_XNDAzMDUxNDk2.html
