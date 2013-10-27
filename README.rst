@@ -57,6 +57,8 @@ install
     Type=Application
     OnlyShowIn=GNOME;
 
+请自行修改路径~
+
 实现原理 
 ========
 
